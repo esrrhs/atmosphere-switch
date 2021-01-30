@@ -39,17 +39,17 @@
 # 备份系统
 * 点击tools
 ![image](backup1.png)
-* 点击tools
+* 点击backup emmc
 ![image](backup2.png)
-* 点击tools
+* 点击第一个
 ![image](backup3.png)
-* 点击tools
+* 结束关闭
 ![image](backup4.png)
-* 点击tools
+* 点击第二个
 ![image](backup5.png)
-* 点击tools
+* 结束关闭
 ![image](backup6.png)
-* 点击tools
+* 最终的backup目录，可以拷贝到其他地方保存
 ![image](backup7.png)
 
 # 虚拟系统
