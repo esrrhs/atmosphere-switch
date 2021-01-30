@@ -37,7 +37,7 @@
 * switch启动到boot界面
 
 # 备份系统
-TODO
+* 点击tools
 
 # 虚拟系统
 https://switch.homebrew.guide/emummc/emummc.html
