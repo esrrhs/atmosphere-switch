@@ -38,6 +38,19 @@
 
 # 备份系统
 * 点击tools
+![image](backup1.png)
+* 点击tools
+![image](backup2.png)
+* 点击tools
+![image](backup3.png)
+* 点击tools
+![image](backup4.png)
+* 点击tools
+![image](backup5.png)
+* 点击tools
+![image](backup6.png)
+* 点击tools
+![image](backup7.png)
 
 # 虚拟系统
 https://switch.homebrew.guide/emummc/emummc.html
