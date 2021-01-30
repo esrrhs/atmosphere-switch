@@ -8,12 +8,26 @@
 
 # 准备SD卡
 * 下载[大气层](https://github.com/Atmosphere-NX/Atmosphere)最新版
-* 解压到sd卡
+* 把atmosphere-xxxxxx-master-xxxxxxxx+hbl-xxx+hbmenu-xxx.zip解压到sd卡
 * 下载[hekate](https://github.com/CTCaer/hekate)最新版
-* 解压到sd卡
-* 留意这里的hekate_ctcaer_xxx.bin，插入RCM注入器到电脑
-* 会识别为U盘，打开\ATMOSPHERE_HEKATE，把刚才的hekate_ctcaer_xxx.bin复制为payload.bin，然后拔掉
-* 插入sd卡到switch
+* 把 hekate_ctcaer_xxxx_Nyx_xxx.zip解压到sd卡
+* 留意这里的hekate_ctcaer_xxx.bin，下面会用到
+* 把RCM注入器插入电脑，会识别为U盘
+* 打开\ATMOSPHERE_HEKATE，把刚才的hekate_ctcaer_xxx.bin复制为payload.bin，然后拔掉
+* 打开网站[sdsetup](https://www.sdsetup.com/)
+* 选择Minimal，然后下载
+* 解压SDSetup(xxxx).zip，将sd/bootloader拷贝到switch的sd卡，覆盖bootloader目录
+* 下载[patches](https://github.com/ITotalJustice/patches)最新版
+* 把hekate.zip解压到switch的sd卡
+* 下载[Awoo](https://github.com/Huntereb/Awoo-Installer)最新版
+* 解压到switch的sd卡
+* 下载[tinfoil](https://tinfoil.io/)的最新NRO版本
+* 解压tinfoil.latest.zip到switch的sd卡
+* 下载[nxmtp](https://github.com/liuervehc/nxmtp)的最新NRO版本
+* 解压到switch的sd卡
+* 下载[Goldleaf](https://github.com/XorTroll/Goldleaf)的最新NRO版本
+* 解压到switch的sd卡
+* （可选）顺便拷贝游戏
 
 # 启动
 * 按住开关10秒，把switch强行关机
@@ -21,16 +35,6 @@
 * 长按RCM注入器的加号，直到闪烁蓝灯，说明是大气层模式。不是则放开，再长按切换
 * RCM注入器插入到switch
 * switch启动到boot界面
-
-# 安装补丁
-* 打开网站[sdsetup](https://www.sdsetup.com/)
-* 选择Minimal，然后下载
-* 解压，将sd/bootloader拷贝到switch的sd卡，覆盖bootloader目录
-* 打开网站[gbatemp](https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-secondary-only.571543/)下载附件
-* 解压到switch的sd卡
-* 下载[Awoo](https://github.com/Huntereb/Awoo-Installer)最新版
-* 解压到switch的sd卡
-* 顺便可以拷贝几个游戏
 
 # 备份系统
 TODO
