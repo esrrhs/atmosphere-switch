@@ -19,13 +19,9 @@
 * 解压SDSetup(xxxx).zip，将sd/bootloader拷贝到switch的sd卡，覆盖bootloader目录
 * 下载[patches](https://github.com/ITotalJustice/patches)最新版
 * 把hekate.zip解压到switch的sd卡
-* 下载[Awoo](https://github.com/Huntereb/Awoo-Installer)最新版
-* 解压到switch的sd卡
 * 下载[tinfoil](https://tinfoil.io/)的最新NRO版本
 * 解压tinfoil.latest.zip到switch的sd卡
 * 下载[nxmtp](https://github.com/liuervehc/nxmtp)的最新NRO版本
-* 解压到switch的sd卡
-* 下载[Goldleaf](https://github.com/XorTroll/Goldleaf)的最新NRO版本
 * 解压到switch的sd卡
 * （可选）顺便拷贝游戏
 
