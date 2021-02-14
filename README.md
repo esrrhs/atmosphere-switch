@@ -4,7 +4,7 @@
 # 准备
 * 可以软破的switch
 * RCM注入器v5，某宝上有售
-* sd卡
+* sd卡，格式化为fat32
 
 # 准备SD卡
 * 下载[大气层](https://github.com/Atmosphere-NX/Atmosphere)最新版
@@ -65,6 +65,10 @@
 https://switch.homebrew.guide/emummc/emummc.html
 
 # 安装游戏
-* 默认是applet mode，按住R打开游戏，则进入full mode
+* 卸载系统中已有的tinfoil
+* 打开相册，进入自定义app界面，点击tinfoil，等几秒钟闪下屏幕
+* 回到桌面，进入tinfoil。第一次可能会联网更新，等待更新结束重启tinfoil
+* 下载[tinfoil nut](https://github.com/blawar/nut/releases)的nut.exe、tinfoil_driver.exe，安装tinfoil_driver.exe，打开nut.exe
+* 将usb线连上switch，在tinfoil会看到usbfs里有电脑的盘符，找到对应的nsp或者xci安装
 
 
