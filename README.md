@@ -71,4 +71,6 @@ https://switch.homebrew.guide/emummc/emummc.html
 * 下载[tinfoil nut](https://github.com/blawar/nut/releases)的nut.exe、tinfoil_driver.exe，安装tinfoil_driver.exe，打开nut.exe
 * 将usb线连上switch，在tinfoil会看到usbfs里有电脑的盘符，找到对应的nsp或者xci安装
 
+![image](usbfs.jpg)
+
 
