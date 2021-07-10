@@ -21,8 +21,6 @@
 * 把hekate.zip解压到switch的sd卡
 * 下载[tinfoil](https://tinfoil.io/)的最新NRO版本
 * 解压tinfoil.latest.zip到switch的sd卡
-* 下载[nxmtp](https://github.com/liuervehc/nxmtp)的最新NRO版本
-* 解压到switch的sd卡
 * （可选）顺便拷贝游戏
 
 # 启动
