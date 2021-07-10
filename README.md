@@ -66,6 +66,7 @@ https://switch.homebrew.guide/emummc/emummc.html
 * 卸载系统中已有的tinfoil
 * 打开相册，进入自定义app界面，点击tinfoil，等几秒钟闪下屏幕
 * 回到桌面，进入tinfoil。第一次可能会联网更新，等待更新结束重启tinfoil
+* 如果提示打开失败，则重启switch，选择fusee引导，再重试安装tinfoil
 * 下载[tinfoil nut](https://github.com/blawar/nut/releases)的nut.exe、tinfoil_driver.exe，安装tinfoil_driver.exe，打开nut.exe
 * 将usb线连上switch，在tinfoil会看到usbfs里有电脑的盘符，找到对应的nsp或者xci安装
 
