@@ -69,7 +69,7 @@ https://switch.homebrew.guide/emummc/emummc.html
 * 如果提示打开失败，则重启switch，选择fusee引导，再重试安装tinfoil
 * 下载[tinfoil nut](https://github.com/blawar/nut/releases)的nut.exe、tinfoil_driver.exe，安装tinfoil_driver.exe，打开nut.exe
 * 将usb线连上switch，在tinfoil会看到usbfs里有电脑的盘符，找到对应的nsp或者xci安装
-* 如果打开看不到，pc的命令行窗口输出```usb exception: [Errno None] b'libusb0-dll:err [_usb_reap_async] reaping request failed, win error```，重启switch解决
+* 如果打开看不到，pc的命令行窗口输出```usb exception: [Errno None] b'libusb0-dll:err [_usb_reap_async] reaping request failed, win error```，重启switch解决。还是不行，则删除tinfoil，然后重启switch，再安装tinfoil。
 
 ![image](usbfs.jpg)
 
