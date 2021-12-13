@@ -70,7 +70,8 @@ https://switch.homebrew.guide/emummc/emummc.html
 * 下载[tinfoil nut](https://github.com/blawar/nut/releases)的nut.exe、tinfoil_driver.exe，安装tinfoil_driver.exe，打开nut.exe
 * 将usb线连上switch，在tinfoil会看到usbfs里有电脑的盘符，找到对应的nsp或者xci安装
 * 如果打开看不到，pc的命令行窗口输出```usb exception: [Errno None] b'libusb0-dll:err [_usb_reap_async] reaping request failed, win error```，重启switch解决。还是不行，则删除tinfoil，然后重启switch，再安装tinfoil。
-
+* 如果还是看不到，从https://zadig.akeo.ie/ 下载zadig.exe，插入switch，打开exe，勾选"List All Devices"。选择tinfoil，选择libusbK，点击"Replace Driver"。然后重启nut.exe
+,
 ![image](usbfs.jpg)
 
 
