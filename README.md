@@ -74,4 +74,8 @@ https://switch.homebrew.guide/emummc/emummc.html
 
 ![image](usbfs.jpg)
 
-
+* 如果还是不行，那就安装[Awoo-Installer](https://github.com/Huntereb/Awoo-Installer)，下载解压到sd卡
+* 按住R，打开任意一个游戏，出现app界面，选择Awoo
+* 进入后，选择usb安装
+* 在电脑上下载[ns-usbloader](https://github.com/developersu/ns-usbloader)，拖入游戏，点击上传
+* Awoo里选择游戏，安装即可
