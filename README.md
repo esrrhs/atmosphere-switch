@@ -17,7 +17,7 @@
 * 打开网站[sdsetup](https://www.sdsetup.com/)
 * 选择Minimal，然后下载
 * 解压SDSetup(xxxx).zip，将sd/bootloader拷贝到switch的sd卡，覆盖bootloader目录
-* 下载[patches](https://sigmapatches.coomer.party/)最新版
+* 下载[patches](https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-package3.571543/)最新版
 * 把sigpatches.zip解压到switch的sd卡
 * 下载[tinfoil](https://tinfoil.io/)的最新NRO版本
 * 解压tinfoil.latest.zip到switch的sd卡
