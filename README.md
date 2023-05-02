@@ -21,7 +21,8 @@
 * 把sigpatches.zip解压到switch的sd卡
 * 下载[tinfoil](https://tinfoil.io/)的最新NRO版本
 * 解压tinfoil.latest.zip到switch的sd卡
-* （可选）顺便拷贝游戏
+* 下载[DBI](https://github.com/rashevskyv/dbi)的dbi.nro、dbi.config
+* 放入switch/DBI/目录
 
 # 启动
 * 按住开关10秒，把switch强行关机
