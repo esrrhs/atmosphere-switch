@@ -19,10 +19,11 @@
 * 解压SDSetup(xxxx).zip，将sd/bootloader拷贝到switch的sd卡，覆盖bootloader目录
 * 下载[patches](https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-package3.571543/)最新版
 * 把sigpatches.zip解压到switch的sd卡
-* 下载[tinfoil](https://tinfoil.io/)的最新NRO版本
+* （可选）下载安装工具[tinfoil](https://tinfoil.io/)的最新NRO版本
 * 解压tinfoil.latest.zip到switch的sd卡
-* 下载[DBI](https://github.com/rashevskyv/dbi)的dbi.nro、dbi.config
+* （可选）下载安装工具[DBI](https://github.com/rashevskyv/dbi)的dbi.nro、dbi.config
 * 放入switch/DBI/目录
+* （可选）下载安装工具[Awoo-Installer](https://github.com/Huntereb/Awoo-Installer)，下载解压到sd卡
 
 # 启动
 * 按住开关10秒，把switch强行关机
