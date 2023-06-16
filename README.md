@@ -26,7 +26,8 @@
 * （可选）下载安装工具[DBI](https://github.com/rashevskyv/dbi)的dbi.nro、dbi.config
 * 放入switch/DBI/目录
 * （可选）下载安装工具[Awoo-Installer](https://github.com/Huntereb/Awoo-Installer)，下载解压到sd卡
-* （可选）下载存档修改工具[EdiZon](https://github.com/WerWolv/EdiZon)的Edizon.nro，放入switch目录下
+* （可选）下载叠加层加载工具[nx-ovlloader](https://github.com/WerWolv/nx-ovlloader)，下载解压到sd卡。下载叠加层[Tesla-Menu](https://github.com/WerWolv/Tesla-Menu)
+* （可选）下载存档修改工具[EdiZon](https://github.com/WerWolv/EdiZon)的Edizon.nro，放入switch目录下。下载ovlEdiZon.ovl放到switch\.overlays目录
 
 # 启动
 * 按住开关10秒，把switch强行关机
