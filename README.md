@@ -9,14 +9,16 @@
 # 准备SD卡
 * 下载[大气层](https://github.com/Atmosphere-NX/Atmosphere)最新版
 * 把atmosphere-xxxxxx-master-xxxxxxxx+hbl-xxx+hbmenu-xxx.zip解压到sd卡
+* 下载fusee.bin，下面会用到
 * 下载[hekate](https://github.com/CTCaer/hekate)最新版
 * 把 hekate_ctcaer_xxxx_Nyx_xxx.zip解压到sd卡
 * 留意这里的hekate_ctcaer_xxx.bin，下面会用到
 * 把RCM注入器插入电脑，会识别为U盘
 * 打开\ATMOSPHERE_HEKATE，把刚才的hekate_ctcaer_xxx.bin复制为payload.bin，然后拔掉
+* 把刚才的fusee.bin拷贝到switch的sd卡，放到bootloader\payloads目录
 * 打开网站[sdsetup](https://www.sdsetup.com/)
 * 选择Minimal，然后下载
-* 解压SDSetup(xxxx).zip，将sd/bootloader拷贝到switch的sd卡，覆盖bootloader目录
+* 解压SDSetup(xxxx).zip，将sd/bootloader/hekate_ipl.ini拷贝到switch的sd卡，覆盖bootloader/hekate_ipl.ini文件
 * 下载[patches](https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-package3.571543/)最新版
 * 把sigpatches.zip解压到switch的sd卡
 * （可选）下载安装工具[tinfoil](https://tinfoil.io/)的最新NRO版本
