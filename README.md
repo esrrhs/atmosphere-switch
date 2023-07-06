@@ -21,8 +21,7 @@
 * 解压SDSetup(xxxx).zip，将sd/bootloader/hekate_ipl.ini拷贝到switch的sd卡，覆盖bootloader/hekate_ipl.ini文件
 * 下载[patches](https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-package3.571543/)最新版
 * 把sigpatches.zip解压到switch的sd卡
-* （可选）下载安装工具[tinfoil](https://tinfoil.io/)的最新NRO版本
-* 解压tinfoil.latest.zip到switch的sd卡
+* （可选）下载安装工具[tinfoil](https://tinfoil.io/)的最新NRO版本，解压tinfoil.latest.zip到switch的sd卡
 * （可选）下载安装工具[DBI](https://github.com/rashevskyv/dbi)的dbi.nro、dbi.config，放入switch/DBI/目录
 * （可选）下载安装工具[Awoo-Installer](https://github.com/Huntereb/Awoo-Installer)，下载解压到sd卡
 * （可选）下载叠加层加载工具[nx-ovlloader](https://github.com/WerWolv/nx-ovlloader)，下载解压到sd卡。下载叠加层[Tesla-Menu](https://github.com/WerWolv/Tesla-Menu)
