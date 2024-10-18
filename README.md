@@ -65,19 +65,8 @@
 https://switch.homebrew.guide/emummc/emummc.html
 
 # 安装游戏
-* 卸载系统中已有的tinfoil
-* 打开相册，进入自定义app界面，点击tinfoil，等几秒钟闪下屏幕
-* 回到桌面，进入tinfoil。第一次可能会联网更新，等待更新结束重启tinfoil
-* 如果提示打开失败，则重启switch，选择fusee引导，再重试安装tinfoil
-* 下载[tinfoil nut](https://github.com/blawar/nut/releases)的nut.exe、tinfoil_driver.exe，安装tinfoil_driver.exe，打开nut.exe
-* 将usb线连上switch，在tinfoil会看到usbfs里有电脑的盘符，找到对应的nsp或者xci安装
-* 如果打开看不到，pc的命令行窗口输出```usb exception: [Errno None] b'libusb0-dll:err [_usb_reap_async] reaping request failed, win error```，重启switch解决。还是不行，则删除tinfoil，然后重启switch，再安装tinfoil。
-* 如果还是看不到，从https://zadig.akeo.ie/ 下载zadig.exe，插入switch，打开exe，勾选"List All Devices"。选择tinfoil，选择libusbK，点击"Replace Driver"。然后重启nut.exe。
-
-![image](usbfs.jpg)
-
-* 如果还是不行，那就安装[Awoo-Installer](https://github.com/Huntereb/Awoo-Installer)，下载解压到sd卡
-* 按住R，打开任意一个游戏，出现app界面，选择Awoo
+* 安装[Awoo-Installer](https://github.com/Huntereb/Awoo-Installer)，下载解压到sd卡
+* 按住R，打开任意一个游戏，出现app界面，选择Awoo，或者直接从相册进入打开Awoo
 * 进入后，选择usb安装
 * 在电脑上下载[ns-usbloader](https://github.com/developersu/ns-usbloader)，拖入游戏，点击上传
 * Awoo里选择游戏，安装即可
