@@ -1,5 +1,5 @@
 # atmosphere-switch
-大气层switch破解方案
+大气层switch使用步骤
 
 # 准备
 * 可以软破的switch
