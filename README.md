@@ -30,38 +30,9 @@
 * 长按RCM注入器的加号，直到闪烁蓝灯，说明是大气层模式。不是则放开，再长按切换
 * RCM注入器插入到switch
 * switch启动到boot界面
-
-# 备份系统
-* 点击tools
-
-![image](backup1.png)
-
-* 点击backup emmc
-
-![image](backup2.png)
-
-* 点击第一个
-
-![image](backup3.png)
-
-* 结束关闭
-
-![image](backup4.png)
-
-* 点击第二个
-
-![image](backup5.png)
-
-* 结束关闭
-
-![image](backup6.png)
-
-* 最终的backup目录，可以拷贝到其他地方保存
-
-![image](backup7.png)
-
-# 虚拟系统
-https://switch.homebrew.guide/emummc/emummc.html
+* （可选）在hekate里备份原始系统
+* 在hekate里sd卡分区，建立虚拟系统
+* 启动虚拟系统
 
 # 安装游戏
 * 安装[Awoo-Installer](https://github.com/Huntereb/Awoo-Installer)，下载解压到sd卡
