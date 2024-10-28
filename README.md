@@ -34,7 +34,6 @@
 * 启动虚拟系统
 
 # 安装游戏
-* 安装[Awoo-Installer](https://github.com/Huntereb/Awoo-Installer)，下载解压到sd卡
 * 按住R，打开任意一个游戏，出现app界面，选择Awoo，或者直接从相册进入打开Awoo
 * 进入后，选择usb安装
 * 在电脑上下载[ns-usbloader](https://github.com/developersu/ns-usbloader)，拖入游戏，点击上传
