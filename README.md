@@ -17,7 +17,7 @@
 * 打开\ATMOSPHERE_HEKATE，把刚才的hekate_ctcaer_xxx.bin复制为payload.bin，然后拔掉
 * 把刚才的fusee.bin拷贝到switch的sd卡，放到bootloader\payloads目录
 * 把[hekate_ipl.ini](./hekate_ipl.ini)拷贝到sd/bootloader/目录
-* 下载[patches](https://gbatemp.net/download/sys-patch-sysmodule.39917/)最新版，解压到switch的sd卡
+* 下载[Sys-Patch Sysmodule](https://gbatemp.net/download/sys-patch-sysmodule.39917/)最新版，解压到switch的sd卡
 * （推荐）下载安装工具[Awoo-Installer](https://github.com/Huntereb/Awoo-Installer)，下载解压到sd卡
 * （可选）下载安装工具[DBI](https://github.com/rashevskyv/dbi)的dbi.nro、dbi.config，放入switch/DBI/目录
 * （可选）下载叠加层加载工具[nx-ovlloader](https://github.com/WerWolv/nx-ovlloader)，下载解压到sd卡。下载叠加层[Tesla-Menu](https://github.com/WerWolv/Tesla-Menu)
