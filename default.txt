@@ -1,0 +1,13 @@
+# Block Nintendo Servers (Atmosphere hosts DNS blocker)
+127.0.0.1 *nintendo.net
+127.0.0.1 *nintendo.com
+127.0.0.1 *nintendo.eu
+127.0.0.1 *nintendowifi.net
+127.0.0.1 *nintendo.co.jp
+127.0.0.1 *nintendo.co.uk
+127.0.0.1 *nintendo-europe.com
+127.0.0.1 *nintendoswitch.com
+127.0.0.1 *nintendoswitch.net
+127.0.0.1 *nintendoswitch.cn
+127.0.0.1 *conntest.nintendowifi.net
+127.0.0.1 *ctest.cdn.nintendo.net

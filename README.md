@@ -20,7 +20,7 @@
 * （推荐）下载主流游戏安装管理工具 [DBI](https://github.com/rashevskyv/dbi/releases)，将 `DBI.nro` 放入 SD 卡的 `switch/DBI/` 目录下
 * （可选）下载叠加层加载工具 [nx-ovlloader](https://github.com/WerWolv/nx-ovlloader/releases) 解压到 SD 卡；下载快捷菜单叠加层 [Tesla-Menu](https://github.com/WerWolv/Tesla-Menu/releases) 的 `ovlmenu.ovl` 放入 SD 卡 `switch/.overlays/` 目录
 * （可选）下载金手指工具 [EdiZon-Overlay](https://github.com/proferabg/EdiZon-Overlay/releases) 的 `EdiZon.ovl` 放入 `switch/.overlays/` 目录；或使用 [EdiZon](https://github.com/WerWolv/EdiZon/releases)
-* （可选，防Ban设置）建议在 SD 卡 `atmosphere/hosts/` 目录下放置 `emummc.txt` / `default.txt` 阻断任天堂服务器域名，防止虚拟系统联网导致Ban机
+* （可选，防Ban设置）把本工程的 [default.txt](./default.txt) 拷贝到 SD 卡的 `atmosphere/hosts/` 目录（若无 hosts 目录请手动新建），阻断任天堂服务器域名，防止虚拟系统联网导致Ban机
 
 # 启动
 * 长按电源键 10 秒以上强制关机
